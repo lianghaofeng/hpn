@@ -1,0 +1,8 @@
+/workspace/hpn/build/CMakeFiles/hpn.dir
+/workspace/hpn/build/CMakeFiles/test_eventloop.dir
+/workspace/hpn/build/CMakeFiles/test_socket.dir
+/workspace/hpn/build/CMakeFiles/test_buffer.dir
+/workspace/hpn/build/CMakeFiles/test_tcpconnection.dir
+/workspace/hpn/build/CMakeFiles/test.dir
+/workspace/hpn/build/CMakeFiles/edit_cache.dir
+/workspace/hpn/build/CMakeFiles/rebuild_cache.dir

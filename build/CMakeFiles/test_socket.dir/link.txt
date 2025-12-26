@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O2 CMakeFiles/test_socket.dir/tests/test_socket.cpp.o -o test_socket  libhpn.a 

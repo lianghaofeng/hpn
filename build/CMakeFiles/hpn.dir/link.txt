@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhpn.a CMakeFiles/hpn.dir/src/EventLoop.cpp.o CMakeFiles/hpn.dir/src/Channel.cpp.o CMakeFiles/hpn.dir/src/Socket.cpp.o CMakeFiles/hpn.dir/src/Buffer.cpp.o CMakeFiles/hpn.dir/src/TcpConnection.cpp.o
+/usr/bin/ranlib libhpn.a
